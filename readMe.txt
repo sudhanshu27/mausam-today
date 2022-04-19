@@ -17,4 +17,4 @@ then hit:http://localhost:3000/
 app will be running....
 
 
-App is live here : https://kh-nishad.herokuapp.com/
+App is live here : https://mausam-today.herokuapp.com/ 
