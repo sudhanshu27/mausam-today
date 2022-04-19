@@ -4,13 +4,13 @@ with this app you can search your city and can get current weather update of you
 
 if you want to run this in your computer do this:
 
-* you must need to have node installed on your pc.
+you must need to have node installed on your pc.
 
-#download the app from here.
+# download the app from here.
 
-#open in your editor.
+# open in your editor.
 
-#run command >> npm install
+# run command >> npm install
 
 it will download all the dependences it need.Run the project from your IDE
 then hit:http://localhost:3000/
