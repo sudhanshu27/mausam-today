@@ -1,10 +1,10 @@
-#Designed and developed a location-specific,
-real-time weather application using ReactJs.#
+**Designed and developed a location-specific,
+real-time weather application using ReactJs.**
 
-#Utilized the OpenWeathermapAPI to fetch
+**Utilized the OpenWeathermapAPI to fetch
 and display current weather conditions, fore-
 casts, and related data for locations world-
-wide.#
+wide.**
 
 
-live link: https://mausam-today-weather-app.netlify.app
+**live link:** https://mausam-today-weather-app.netlify.app
